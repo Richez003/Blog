@@ -8,7 +8,7 @@ const Contact = () => {
     <section className="innerWidth flexCenter c-container">
         <div className=" flexColCenter c-left">
           <span className='primaryText'>Easy to contact us</span>
-          <span className='secondaryText'>We are always ready to help by providing the best services,<br/> we believe a good place to live can make your life better </span>
+          <span className='secondaryText'>We are always ready to help by providing the best services,<br/> we believe a good place to live can make your life better. </span>
 
           <div className="flexColCenter contactModes ">
             <div className="flexStart row">
@@ -27,7 +27,7 @@ const Contact = () => {
               <div className="flexColCenter mode">
                 <div className="flexStart">
                   <div className="flexCenter icon">
-                    <BsFillChatDotsFill size={25}/>
+                    <BsFillChatDotsFill size={26}/>
                   </div>
                   <div className="flexColCenter details">
                     <span className='primaryText'>Chat</span><span className='secondaryText'>07084578491</span>
@@ -41,7 +41,7 @@ const Contact = () => {
               <div className="flexColCenter mode">
                 <div className="flexStart">
                   <div className="flexCenter icon">
-                    <BsFillChatDotsFill size={25}/>
+                    <BsFillChatDotsFill size={26}/>
                   </div>
                   <div className="flexColCenter details">
                     <span className='primaryText'>Video Call</span>
